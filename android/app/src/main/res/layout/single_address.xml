@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" android:padding="5dp">
+
+    <TextView
+            android:id="@+id/address_line"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="false"
+            android:layout_alignParentTop="false"
+            android:text="Address Line 1"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textSize="15dp"
+            android:padding="15dp"/>
+
+    <!--<TextView-->
+            <!--android:id="@+id/address_line2"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignLeft="@+id/address_line"-->
+            <!--android:layout_alignParentEnd="false"-->
+            <!--android:layout_alignParentStart="false"-->
+            <!--android:layout_below="@+id/address_line"-->
+            <!--android:text="address line 2" />-->
+
+
+</RelativeLayout>

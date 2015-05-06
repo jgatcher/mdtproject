@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Android API 19 Platform"/>
+	<classpathentry kind="src" path="/app/build/generated/source/r/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/source/aidl/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/source/rs/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/res/rs/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/res/generated/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/source/r/androidTest/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/source/aidl/androidTest/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/source/buildConfig/androidTest/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/source/rs/androidTest/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/res/rs/androidTest/debug"/>
+	<classpathentry kind="src" path="/app/build/generated/res/generated/androidTest/debug"/>
+	<classpathentry kind="src" path="/app/src/debug/res"/>
+	<classpathentry kind="src" path="/app/src/debug/resources"/>
+	<classpathentry kind="src" path="/app/src/debug/assets"/>
+	<classpathentry kind="src" path="/app/src/debug/aidl"/>
+	<classpathentry kind="src" path="/app/src/debug/java"/>
+	<classpathentry kind="src" path="/app/src/debug/jni"/>
+	<classpathentry kind="src" path="/app/src/debug/rs"/>
+	<classpathentry kind="src" path="/app/src/main/res"/>
+	<classpathentry kind="src" path="/app/src/main/resources"/>
+	<classpathentry kind="src" path="/app/src/main/assets"/>
+	<classpathentry kind="src" path="/app/src/main/aidl"/>
+	<classpathentry kind="src" path="/app/src/main/java"/>
+	<classpathentry kind="src" path="/app/src/main/jni"/>
+	<classpathentry kind="src" path="/app/src/main/rs"/>
+	<classpathentry kind="src" path="/app/src/androidTest/res"/>
+	<classpathentry kind="src" path="/app/src/androidTest/resources"/>
+	<classpathentry kind="src" path="/app/src/androidTest/assets"/>
+	<classpathentry kind="src" path="/app/src/androidTest/aidl"/>
+	<classpathentry kind="src" path="/app/src/androidTest/java"/>
+	<classpathentry kind="src" path="/app/src/androidTest/jni"/>
+	<classpathentry kind="src" path="/app/src/androidTest/rs"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/joda-time-2.4"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/gson-2.3.1"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/google-maps-services-0.1.6"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/okhttp-2.0.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-maps-7.0.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/android-maps-utils-0.3.4"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-base-7.0.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-location-7.0.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/okio-1.0.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-gcm-7.0.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/support-v4-22.0.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/support-annotations-22.0.0"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
