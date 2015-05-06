@@ -1,1 +1,3 @@
-MDT android app Walkwithme
+WalkWithMe
+MDT Project
+Group A7
